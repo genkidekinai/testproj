@@ -1,0 +1,1 @@
+printf("Sorezore no dokoka wakaranai tte ita.\n");
